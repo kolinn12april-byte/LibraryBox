@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ကျွန်ုပ်၏ Offline Website</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background-color: #f4f4f4; padding: 50px; }
+        .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: inline-block; }
+        h1 { color: #333; }
+        p { color: #666; }
+        .button { background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>မင်္ဂလာပါ</h1>
+        <p>ဒါကတော့ အင်တာနက်မလိုဘဲ အလုပ်လုပ်တဲ့ Offline Website ဖြစ်ပါတယ်။</p>
+        <br>
+        <a href="#" class="button" onclick="alert('နှိပ်ခဲ့တဲ့အတွက် ကျေးဇူးတင်ပါတယ်!')">နှိပ်ကြည့်ရန်</a>
+    </div>
+</body>
+</html>
